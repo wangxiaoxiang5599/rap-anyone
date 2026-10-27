@@ -1,17 +1,17 @@
 # Rap Anyone — AI Rap Video Generator
 
 **[rapanyone.com](https://rapanyone.com)** turns a photo into an AI rap music video.
-Make anyone rap: you, your friends, your dog, or a character you drew.
+Make anyone rap: you, your friends, or the birthday person.
 
 <p>
+  <img src="./samples/birthday-for-mom.gif" alt="A son raps a birthday song for his mom, made with Rap Anyone" width="270">
   <img src="./samples/battle-rooftop.gif" alt="Two people trading verses in an AI rap battle on a rooftop" width="270">
-  <img src="./samples/pet-golden-retriever.gif" alt="A golden retriever rapping, made with Rap Anyone" width="270">
 </p>
 
 ## What it does
 
-- **Pick a scene**: a city rooftop, a '90s West Coast street, an '80s block party, the Hotel Lobby booth, or a rap battle ring.
-- **Add a photo**: one person, two people (duo or battle), a pet, or a crew.
+- **Pick a scene**: a '90s West Coast street, an '80s block party, a trap night, a city rooftop, the Hotel Lobby booth, or a rap battle ring.
+- **Add a photo**: one person, or two people for the Hotel Lobby duet or a rap battle.
 - **Get the bars**: Rap Anyone writes lyrics about the person in the photo, raps them in an AI voice and lip-syncs the photo into a vertical music video.
 
 Free 4-second preview (480p, watermarked); full videos use credits.
